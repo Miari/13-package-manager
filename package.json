@@ -1,0 +1,23 @@
+{
+  "name": "package-manager-example",
+  "version": "1.0.0",
+  "description": "Repo for coding along",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miari/13-package-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miari/13-package-manager/issues"
+  },
+  "homepage": "https://github.com/Miari/13-package-manager#readme",
+  "dependencies": {
+    "chart.js": "^3.7.1"
+  }
+}
